@@ -1,2 +1,3 @@
-# launcher
-Launcher for the Stellar Tweaks project
+# Stellar Tweaks Launcher
+
+> Coming soon
